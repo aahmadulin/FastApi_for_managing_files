@@ -11,7 +11,7 @@
 6) Получение конкретного файла и его метаданных по UID.
 
 ## Как запустить?
-1) Клонируйте репозиторий: git clone https://github.com/ваш-username/FastApi_for_managing_files.git
+1) Клонируйте репозиторий: git clone https://github.com/aahmadulin/FastApi_for_managing_files.git
 cd FastApi_for_managing_files
 2) Установите зависимости: pip install -r requirements.txt
 3) Запустите сервер: uvicorn app.main:app --reload
